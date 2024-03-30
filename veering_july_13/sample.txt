@@ -1,0 +1,21 @@
+C:\pr2011\veering_triangulator>python main.py
+Veering triangulator. April 2013.
+
+Constructs Agol's veering triangulations for punctured orientable
+surfaces. Relies on the software Trains by Toby Hall.
+
+Type 'help' for a list of commands
+b
+Surface genus:
+1
+Number of punctures:
+1
+Enter pA map as product of Dehn twists:
+a1 B1
+Enter filename of triangulation file to be saved:
+fig8.tri
+writing to file: fig8.tri
+
+
+
+Note that the file fig8.tri produced can then be loaded as a triangulation into the computer program SnapPy.
